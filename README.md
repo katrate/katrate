@@ -1,4 +1,3 @@
-## Header
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=katrate&theme=dracula&mode=light" />
@@ -17,17 +16,12 @@
     <img src="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula" alt="katrate ascii portrait section" />
   </picture>
 </p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=katrate&theme=dracula&mode=light" />
     <img src="https://www.gitskins.com/api/section/stack?username=katrate&theme=dracula" alt="katrate stack section" />
   </picture>
 </p>
-## GitHub Stats
-> Editing this section in the inspector.
-GitSkins stat widgets will use the **Dracula** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=katrate&theme=dracula&mode=light" />
@@ -40,16 +34,13 @@ GitSkins stat widgets will use the **Dracula** theme.
     <img src="https://www.gitskins.com/api/section/heatmap?username=katrate&theme=dracula" alt="katrate heatmap section" />
   </picture>
 </p>
-## Projects
-Highlights repositories as proof of work.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=katrate&theme=dracula&mode=light" />
     <img src="https://www.gitskins.com/api/section/projects?username=katrate&theme=dracula" alt="katrate projects section" />
   </picture>
 </p>
-## Connect
-Website: mylabs-one.vercel.app/ · Email: my494stry@gmail.com
+Website: mylabs-one.vercel.app/ · Email: my494stry@gmail.com · Instagram: @_katrate_
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=katrate&theme=dracula&website=mylabs-one.vercel.app%2F&email=my494stry%40gmail.com&mode=light" />
