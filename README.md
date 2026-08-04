@@ -4,19 +4,19 @@
     <!-- Left image that spans two rows -->
     <td rowspan="2" align="center" valign="middle">
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula" alt="katrate ascii portrait section" width="50%" />
+      <img src="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula" alt="katrate ascii portrait section" width="100%" />
     </td>
     <!-- Top-right image -->
     <td align="center">
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/stats?username=katrate&theme=dracula" alt="katrate stats section" width="50%" />
+      <img src="https://www.gitskins.com/api/section/stats?username=katrate&theme=dracula" alt="katrate stats section" width="100%" />
     </td>
   </tr>
   <tr>
     <!-- Bottom-right image -->
     <td align="center">
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/heatmap?username=katrate&theme=dracula" alt="katrate heatmap section" width="50%" />
+      <img src="https://www.gitskins.com/api/section/heatmap?username=katrate&theme=dracula" alt="katrate heatmap section" width="100%" />
     </td>
   </tr>
 </table>
