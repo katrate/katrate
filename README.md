@@ -1,5 +1,4 @@
 ## Header
-Hi, I'm **katrate**. This README is tuned for **student** with a Dracula visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=katrate&theme=dracula&mode=light" />
