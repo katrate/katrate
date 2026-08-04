@@ -1,9 +1,3 @@
-# katrate
-
-> Learning velocity and project potential.
-
-**Theme:** Dracula · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
 Hi, I'm **katrate**. This README is tuned for **student** with a Dracula visual system.
 <p align="center">
