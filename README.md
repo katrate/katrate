@@ -16,7 +16,7 @@
     <!-- Bottom-right image -->
     <td align="center">
       <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img rc="https://www.gitskins.com/api/section/heatmap?username=katrate&theme=dracula" alt="katrate heatmap section" width="50%" />
+      <img src="https://www.gitskins.com/api/section/heatmap?username=katrate&theme=dracula" alt="katrate heatmap section" width="50%" />
     </td>
   </tr>
 </table>
