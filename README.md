@@ -1,25 +1,4 @@
 
-<table>
-  <tr>
-    <!-- Left image that spans two rows -->
-    <td rowspan="2" align="center" valign="middle">
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula" alt="katrate ascii portrait section" width="100%" />
-    </td>
-    <!-- Top-right image -->
-    <td align="center">
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/wordmark?username=katrate&theme=dracula" alt="katrate 3d wordmark section" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <!-- Bottom-right image -->
-    <td align="center">
-      <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=katrate&theme=dracula&mode=light" /> 
-      <img src="https://www.gitskins.com/api/section/social?username=katrate&theme=dracula&website=mylabs-one.vercel.app%2F&email=my494stry%40gmail.com" alt="katrate social section" width="100%" />
-    </td>
-  </tr>
-</table>
 
 <h2>技術スタック</h2>
 
